@@ -1,12 +1,18 @@
 # Release Notes
 
-## 5.0 beta
+## v5 beta
 
 For access to the beta please [apply here](https://docs.google.com/forms/d/e/1FAIpQLScjqSapawwHwnImPXT_rtlY-Dp2EFcmyko1elVAMIiWGdPdTA/viewform). Further information in our [blog post](https://medium.com/samsung-internet-dev/beta-d0f988fb77fb#.cuan7ygb7).
 
+* 'CloseBy' beacon discovery
+* Progressive web app ambient badging
+
+## v5.0 release
+
+v5.0 is being [released via the Galaxy App Store](https://medium.com/samsung-internet-dev/announcing-samsung-internet-5-0-1ac2bfc14b78) during December 2016:
+
 * Engine upgrade to Chromium m51
 * [Payment Request API](https://w3c.github.io/browser-payment-api/) support
-* 'CloseBy' beacon discovery
 * DuckDuckGo search engine option
 
 ## Earlier releases
