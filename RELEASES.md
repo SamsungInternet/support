@@ -11,7 +11,7 @@ For access to the beta please [apply here](https://docs.google.com/forms/d/e/1FA
 
 ## v5.0 release
 
-v5.0 is being [released via the Galaxy App Store](https://medium.com/samsung-internet-dev/announcing-samsung-internet-5-0-1ac2bfc14b78) during December 2016:
+v5.0 is being released via the Galaxy App Store in December 2016 (Europe, USA) and will be updated via the upcoming Android N firmware update. [More details here](https://medium.com/samsung-internet-dev/announcing-samsung-internet-5-0-1ac2bfc14b78).
 
 * Engine upgrade to Chromium m51
 * [Payment Request API](https://w3c.github.io/browser-payment-api/) support
